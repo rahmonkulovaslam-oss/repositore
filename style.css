@@ -1,0 +1,178 @@
+*{
+    background-color: rgb(47, 49, 51);
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.g2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.g {
+    display: flex;
+    justify-content: space-between;
+}
+
+.g3 {
+    margin-right: 70px;
+}
+
+.g4 {
+    padding-left: 80px;
+}
+
+.g5 {
+    padding-left: 30px;
+}
+
+.buttong {
+    display: flex;
+    justify-content: space-around;
+    margin-left: -100px;
+
+
+}
+
+.k {
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-around;
+    margin-left: -65px;
+
+
+}
+
+.qw {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.a1 {
+    border-left: 1px solid black;
+}
+
+.big {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+
+.img1 {
+
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.dic {
+    margin-left: -100px;
+
+}
+.f25{
+    border: 1px solid gray;
+    width: 28%;
+    border-radius: 8px;
+    background-color: #131e3A;
+    box-shadow: 1px 1px 3px #ED6;
+}
+.nc{
+    display: flex;
+    justify-content: space-around;
+}
+.ww{
+    border: 1px solid gray;
+    width: 28%;
+    border-radius: 8px;
+    background-color: #131e3A;
+    box-shadow: 1px 1px 3px #ED6;
+}
+.bv{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.t{
+    margin-right: 80px;
+    display: flex;
+}
+.bd{
+    margin-top: 130px;
+}
+.diso{
+    display: flex;
+    justify-content:space-around
+}
+.su{
+    padding-left: 25px;
+    padding-top: 20px;
+}
+.gh{
+    padding-left: 30px;
+}
+.glavr{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.best{
+    display: flex;
+    justify-content: space-around;
+}
+.bar{
+    display: flex;
+    justify-content: space-around;
+}
+.ft{
+    display: flex;
+    justify-content: space-around;
+}
+.f21{
+    display: flex;
+    justify-content: space-around;
+}
+.rr{
+    display: flex;
+    justify-content: space-around;
+}
+.bt{
+    margin-top: 30px;
+}
+.vaqt {
+
+    border: 2px solid black;
+    border-radius: 8px;
+    justify-content: space-around;
+    background-color: #131e3A;
+    height: 150px;
+    margin-left: 200px;
+    width: 300px;
+
+
+}
+
+.f {
+    background-color: #131e3A;
+
+}
+
+.v1 {
+    display: flex;
+    justify-content: space-around;
+    background-color: #131e3A;
+}
+
+.sa {
+    display: flex;
+    justify-content: space-around;
+}
+
+.sa1 {
+
+    margin-top: 50px;
+
+}
